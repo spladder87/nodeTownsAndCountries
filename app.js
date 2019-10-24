@@ -10,7 +10,8 @@ var apiRouter = require('./routes/api');
 var urlencodedParser = bodyParser.urlencoded({ extended: true });
 
 var app = express();
-app.set("view engine", "ejs");
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(__dirname + "/public"));
 app.use(logger('dev'));
 app.use(express.json());
