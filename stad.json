@@ -11,7 +11,7 @@
       "population": 269057
   },{
       "id": 3,
-      "stadname": "Norköping",
+      "stadname": "NorkÃ¶ping",
       "countryid": 1,
       "population": 95618
   },{
@@ -26,12 +26,12 @@
       "population": 177617
   },{
       "id": 6,
-      "stadname": "Göteborg",
+      "stadname": "GÃ¶teborg",
       "countryid": 1,
       "population": 581822
   },{
       "id": 7,
-      "stadname": "Västerås",
+      "stadname": "VÃ¤sterÃ¥s",
       "countryid": 1,
       "population": 119373
   },{
@@ -46,7 +46,7 @@
       "population": 252772
   },{
       "id": 10,
-      "stadname": "Malmö",
+      "stadname": "MalmÃ¶",
       "countryid": 1,
       "population": 307496
   },{
@@ -71,7 +71,7 @@
       "population": 152617
   },{
       "id": 15,
-      "stadname": "Jyväskylä",
+      "stadname": "JyvÃ¤skylÃ¤",
       "countryid": 2,
       "population": 121782
   }
